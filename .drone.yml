@@ -1,4 +1,4 @@
-image: gordon/nodejs
+image: bradrydzewski/node
 script:
   - echo "Hello"
 notify:
