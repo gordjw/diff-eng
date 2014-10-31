@@ -1,0 +1,7 @@
+image: gordon/nodejs
+script:
+  - echo "Hello"
+notify:
+  email:
+    recipients:
+      - gordjw@gmail.com
